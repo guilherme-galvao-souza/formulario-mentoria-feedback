@@ -157,4 +157,5 @@ form button{
   margin-top: 60px;
   border: none;
   border-radius: 8px;
+  cursor:pointer;
 }
